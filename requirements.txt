@@ -1,5 +1,2 @@
-python-telegram-bot
-python-dotenv
-gspread
-google-auth-oauthlib
-pyopenssl
+python-telegram-bot==20.8
+gspread==6.0.2
